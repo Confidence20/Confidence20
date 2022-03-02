@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Confidence20
-- 👀 I’m a Data Analyst, Scientidt snd machine learning engineer. With over 3 years experience on innovative projects.
+- 👀 I’m a Data Analyst, Scientist, machine learning engineer and Microsoft Power app developer. With over 3 years experience on innovative projects.
 - 🌱 I’m currently learning ...Big Data and Cloud Infrastructure.
 - 💞️ I’m looking to collaborate with Companies to bring new innovations.
 - 📫 Reach me via 
